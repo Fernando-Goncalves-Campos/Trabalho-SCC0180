@@ -27,9 +27,13 @@ Custo para a produção da fonte
 ------------------------------
 | Peça    | Preço          |
 |---------|----------------|
-| Ponte de diodos | 4 x [0.10](https://www.baudaeletronica.com.br/diodo-1n4007.html) = 0.40|
-| Diodo Zener | [0.09](https://www.baudaeletronica.com.br/diodo-zener-bzx55c-13v-0-5w.html) |
-|Resistor de 87Ω (36Ω + 51Ω)|  [0.06](https://www.baudaeletronica.com.br/resistor-36r-5-1-4w.html) + [0.06](https://www.baudaeletronica.com.br/resistor-51r-5-1-4w.html) = 0.12| 
-|Resistor de 560Ω| [0.06](https://www.baudaeletronica.com.br/resistor-560r-5-1-4w.html) | 
-|Resistor de 2274Ω (18Ω + 56Ω + 2200Ω)| [0.06](https://www.baudaeletronica.com.br/resistor-18r-5-1-4w.html) + [0.06](https://www.baudaeletronica.com.br/resistor-56r-5-1-4w.html) + [0.06](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.html) = 0.18| 
-|Capacitor | [0.43](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html) |
+| Ponte de diodos | 4 x [R$0,10](https://www.baudaeletronica.com.br/diodo-1n4007.html) = R$0,40|
+| Diodo Zener | [R$0,09](https://www.baudaeletronica.com.br/diodo-zener-bzx55c-13v-0-5w.html) |
+|Resistor de 87Ω (36Ω + 51Ω)|  [R$0,06](https://www.baudaeletronica.com.br/resistor-36r-5-1-4w.html) + [R$0,06](https://www.baudaeletronica.com.br/resistor-51r-5-1-4w.html) = R$0,12| 
+|Resistor de 560Ω| [R$0,06](https://www.baudaeletronica.com.br/resistor-560r-5-1-4w.html) | 
+|Resistor de 2274Ω (18Ω + 56Ω + 2200Ω)| [R$0,06](https://www.baudaeletronica.com.br/resistor-18r-5-1-4w.html) + [R$0,06](https://www.baudaeletronica.com.br/resistor-56r-5-1-4w.html) + [R$0,06](https://www.baudaeletronica.com.br/resistor-2k2-5-1-4w.html) = R$0,18| 
+|Capacitor | [R$0,43](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html) |
+|Transistor | [R$0,14](https://www.baudaeletronica.com.br/transistor-npn-bc817-smd.html) |
+|Potenciometro | [R$1,70](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) |
+|Transformador | [R$10,90](https://www.casasbahia.com.br/transformador-12-12vac-70ma-8034-hayonik-1502002061/p/1502002061?utm_medium=Cpc&utm_source=google_freelisting&IdSku=1502002061&idLojista=19709) |
+|Total | R$14,02 |
