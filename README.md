@@ -4,7 +4,7 @@ Explicação do trabalho
 ----------------------
 Projeto de uma Fonte de Tensão ajustável entre 3V a 12V com capacidade de 100mA
 
-Circuito feito no falstad
+Circuito feito no Falstad
 -------------------------
 ![Captura de Tela (1)](https://user-images.githubusercontent.com/87579931/126045063-12144ff7-f878-428f-88e6-ecbaba2d2934.png)
 
@@ -37,3 +37,11 @@ Custo para a produção da fonte
 |Potenciometro | [R$1,70](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) |
 |Transformador | [R$10,90](https://www.casasbahia.com.br/transformador-12-12vac-70ma-8034-hayonik-1502002061/p/1502002061?utm_medium=Cpc&utm_source=google_freelisting&IdSku=1502002061&idLojista=19709) |
 |Total | R$14,02 |
+
+Projeto no Eagle
+----------------
+
+### Schematic
+![Captura de Tela (75)](https://user-images.githubusercontent.com/87579931/126046275-5aec4878-94b7-4436-8784-32f443e190cf.png)
+
+### PCB![Captura de Tela (1)](https://user-images.githubusercontent.com/87579931/126046337-36e97505-e21b-4f73-8310-4b37aba39dc6.png)
