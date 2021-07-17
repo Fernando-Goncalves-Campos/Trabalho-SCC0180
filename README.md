@@ -44,4 +44,5 @@ Projeto no Eagle
 ### Schematic
 ![Captura de Tela (75)](https://user-images.githubusercontent.com/87579931/126046275-5aec4878-94b7-4436-8784-32f443e190cf.png)
 
-### PCB![Captura de Tela (1)](https://user-images.githubusercontent.com/87579931/126046337-36e97505-e21b-4f73-8310-4b37aba39dc6.png)
+### PCB
+![Captura de Tela (74)](https://user-images.githubusercontent.com/87579931/126046355-d6a14c6f-5456-4d71-ac78-a9214e3c03c1.png)
