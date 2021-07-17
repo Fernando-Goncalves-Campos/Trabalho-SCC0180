@@ -10,6 +10,7 @@ Circuito feito no Falstad
 
 ### Link para o projeto no [Falstad](https://tinyurl.com/yeowb335)
 
+
 Materiais utilizados na fonte
 -----------------------------
 
@@ -23,8 +24,10 @@ Materiais utilizados na fonte
 | Potenciometro | Permitir a mudança da potência final |
 | Tranformador | Reduzir a tensão da rede para uma tensão que não seja danosa para os demais componentes |
 
+
 Custo para a produção da fonte
 ------------------------------
+
 | Peça    | Preço          |
 |---------|----------------|
 | Ponte de diodos | 4 x [R$0,10](https://www.baudaeletronica.com.br/diodo-1n4007.html) = R$0,40|
@@ -37,6 +40,7 @@ Custo para a produção da fonte
 |Potenciometro | [R$1,70](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) |
 |Transformador | [R$10,90](https://www.casasbahia.com.br/transformador-12-12vac-70ma-8034-hayonik-1502002061/p/1502002061?utm_medium=Cpc&utm_source=google_freelisting&IdSku=1502002061&idLojista=19709) |
 |Total | R$14,02 |
+
 
 Projeto no Eagle
 ----------------
