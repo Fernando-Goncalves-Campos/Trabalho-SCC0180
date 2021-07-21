@@ -50,3 +50,7 @@ Projeto no Eagle
 
 ### PCB
 ![Captura de Tela (74)](https://user-images.githubusercontent.com/87579931/126046355-d6a14c6f-5456-4d71-ac78-a9214e3c03c1.png)
+
+Vídeo explicando a fonte
+------------------------
+[Link](https://drive.google.com/file/d/1hAxHXjWOhURsR3___K-J_CEMgJh5acg8/view?usp=sharing)
