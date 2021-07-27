@@ -49,7 +49,7 @@ Projeto no Eagle
 ![Captura de Tela (75)](https://user-images.githubusercontent.com/87579931/126046275-5aec4878-94b7-4436-8784-32f443e190cf.png)
 
 ### PCB
-![Captura de Tela (74)](https://user-images.githubusercontent.com/87579931/126046355-d6a14c6f-5456-4d71-ac78-a9214e3c03c1.png)
+![Captura de Tela (76)](https://user-images.githubusercontent.com/87579931/127191377-c511acb4-1fff-48a8-b285-e3c022e1df3d.png)
 
 Vídeo explicando a fonte
 ------------------------
